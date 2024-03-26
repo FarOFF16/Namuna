@@ -1,0 +1,2 @@
+# Namuna
+Multipurpose discord bot 
