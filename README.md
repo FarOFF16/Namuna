@@ -1,2 +1,2 @@
 # Namuna
-Multipurpose discord bot 
+bot puttar
